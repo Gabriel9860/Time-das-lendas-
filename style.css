@@ -1,0 +1,13 @@
+:root{
+--azul:#0800ff;
+--preto:#000000;
+
+}
+body{
+background-color:var(--azul);
+color: var(var(--preto));
+}
+
+img{
+    width:20%;
+}
