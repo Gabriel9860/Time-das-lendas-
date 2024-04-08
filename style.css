@@ -28,7 +28,8 @@ header{
  margin: 20px;
  padding: 20px;
  border-radius: 45px;
- border: 5px solid orange
+ border: 5px solid orange;
+ background-image: url(./image\ 1.png);
 }
     .equipe {
         display: grid;
