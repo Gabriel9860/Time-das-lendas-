@@ -42,3 +42,7 @@ header{
     .ft{
         width: 40%;
     }
+.ft{
+    border: 3px solid orangered;
+    margin: 12px;
+}
