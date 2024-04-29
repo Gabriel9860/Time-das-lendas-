@@ -14,8 +14,7 @@ img {
 }
 
 header {
-   
-    align-items: center;
+   text-align: center;
     background-image: url(./cup.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -80,4 +79,5 @@ header a {
 .cab{
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
