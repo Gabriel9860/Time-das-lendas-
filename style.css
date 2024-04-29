@@ -14,9 +14,8 @@ img {
 }
 
 header {
-    display: flex;
+   
     align-items: center;
-    justify-content: space-around;
     background-image: url(./cup.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -72,4 +71,13 @@ header a {
 
 .posição-2{
     margin-top: 45px;
+}
+
+.meio{
+    text-align: center;
+}
+
+.cab{
+    display: flex;
+    justify-content: space-around;
 }
