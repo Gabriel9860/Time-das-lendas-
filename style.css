@@ -18,6 +18,9 @@ header {
     align-items: center;
     justify-content: space-around;
     background-image: url(./cup.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 182px;
 }
 
 .img-de-introdução {
