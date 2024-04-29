@@ -17,8 +17,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-image: linear-gradient(#FFD706, #857474);
-    background-image: url(./bola-de-basquete-spalding-modelo-stretball-cor-laranja-22820221342-removebg-preview\ 1.png);
+    background-image: url(./cup.png);
 }
 
 .img-de-introdução {
